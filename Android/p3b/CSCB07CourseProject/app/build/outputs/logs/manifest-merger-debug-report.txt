@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml
+		INJECTED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml
+		INJECTED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml
+		INJECTED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:8:22-69
+application
+ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:10:5-36:19
+MERGED from [com.android.support:design:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:15:9-40
+activity#cs.b07.cscb07courseproject.MainActivity
+ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:20:27-74
+activity#cs.b07.cscb07courseproject.ClientMain
+ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:23:9-48
+	android:name
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:23:19-45
+activity#cs.b07.cscb07courseproject.SearchFlights
+ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:24:19-48
+activity#cs.b07.cscb07courseproject.DisplayFlights
+ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:25:9-52
+	android:name
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:25:19-49
+activity#cs.b07.cscb07courseproject.AdminMain
+ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:26:9-47
+	android:name
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:26:19-44
+activity#cs.b07.cscb07courseproject.SearchItinerary
+ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:27:9-53
+	android:name
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:27:19-50
+activity#cs.b07.cscb07courseproject.DisplayItinerary
+ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:28:9-54
+	android:name
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:28:19-51
+activity#cs.b07.cscb07courseproject.EditClient
+ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:29:9-48
+	android:name
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:29:19-45
+activity#cs.b07.cscb07courseproject.LoginActivity
+ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:30:9-32:60
+	android:label
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:32:13-57
+	android:name
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:31:13-42
+activity#cs.b07.cscb07courseproject.ViewAllClients
+ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:33:9-52
+	android:name
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:33:19-49
+activity#cs.b07.cscb07courseproject.ViewClient
+ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:34:9-48
+	android:name
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:34:19-45
+activity#cs.b07.cscb07courseproject.InputFlight
+ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:35:9-58
+	android:name
+		ADDED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml:35:19-46
+uses-sdk
+INJECTED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:recyclerview-v7:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml
+		INJECTED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml
+		INJECTED from /cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/src/main/AndroidManifest.xml

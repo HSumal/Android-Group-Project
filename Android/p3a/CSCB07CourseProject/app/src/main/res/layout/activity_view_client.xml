@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_view_client"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="cs.b07.cscb07courseproject.ViewClient">
+
+
+    <Button
+        android:id = "@+id/viewItiniraries"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:text="View Client's Itiniraries"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:background="@android:color/background_light"
+        android:onClick="viewClientItinerary"
+        android:layout_alignParentBottom="true"
+        android:layout_above="@+id/expiry_date" />
+
+    <Button
+        android:id = "@+id/editClient"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:text="Edit Client's Profile"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:background="@android:color/background_light"
+        android:onClick="editProfile"
+        android:layout_marginBottom="44dp"
+        android:layout_above="@+id/viewItiniraries"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/last_name"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/first_name"
+        android:layout_below="@+id/last_name"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/address"
+        android:layout_below="@+id/last_name"
+        android:layout_alignParentLeftcard_number="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/credit_card"
+        android:layout_below="@+id/address"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/expiry_date"
+        android:layout_below="@+id/credit_card"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

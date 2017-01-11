@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="cs.b07.cscb07courseproject.EditClient">
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="@string/first_name"
+        android:id="@+id/firstName"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="@string/last_name"
+        android:id="@+id/lastName"
+        android:layout_below="@+id/firstName"
+        android:layout_alignLeft="@+id/firstName"
+        android:layout_alignStart="@+id/firstName" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="@string/address"
+        android:id="@+id/address"
+        android:layout_below="@+id/lastName"
+        android:layout_alignLeft="@+id/lastName"
+        android:layout_alignStart="@+id/lastName" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="@string/card_number"
+        android:id="@+id/cardNumber"
+        android:layout_below="@+id/address"
+        android:layout_alignLeft="@+id/address"
+        android:layout_alignStart="@+id/address" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="@string/expiry_date"
+        android:id="@+id/expiryDate"
+        android:layout_below="@+id/cardNumber"
+        android:layout_alignLeft="@+id/cardNumber"
+        android:layout_alignStart="@+id/cardNumber" />
+
+    <Button
+        android:text="Save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/saveButton"
+        android:layout_below="@+id/expiryDate"
+        android:layout_centerHorizontal="true"
+        android:onClick="editInfo"/>
+</RelativeLayout>

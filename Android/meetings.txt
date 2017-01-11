@@ -1,0 +1,30 @@
+November 9th, 2016
+Planning Meeting
+
+Irha: - will be partnering up with Angela and working on User and FlightApp implementations
+
+Jacob: - will be partnering up with Harpreet and working on Flight, Itinerary, and FlightDatabase implementations
+
+Angela: - will be partnering up with Irha and working on User and FlightApp implementations
+
+Harpreet: - will be partnering up with Jacob and working on Flight, Itinerary, and FlightDatabase implementations
+
+
+November 14th, 2016
+Status Meeting
+
+Irha and Angela - implemented Users, now working on FlightApp, and testing/commenting.
+
+Jacob and Harpreet - implemented Flight and Itinerary, now working on finished up FlightDatabase, and testing/commenting.
+
+Look forward - how to handle user input, any additional methods we want other than those in our UML.
+
+
+November 17th, 2016
+Planning Meeting (Midway)
+
+Jacob and Harpreet - Almost done implementing FlightDatabase, still need to do comments and a little more testing. May be adding some more methods to help with the User/FlightApp side of things.
+
+Irha and Angela - Almost done implementing FlightApp, all that’s left is search methods (which will likely use FlightDatabase sort methods), and user input. Still need commenting and a little more testing.
+
+Look Ahead - Need to begin to combine both parts of the program and test it as a whole, and work on the additional classes given like Driver class.

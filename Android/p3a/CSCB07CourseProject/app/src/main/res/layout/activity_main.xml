@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/colorPrimary"
+    tools:context="cs.b07.cscb07courseproject.MainActivity">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id = "@+id/editText1"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:gravity="center"
+        android:layout_margin="50dp"
+        android:hint = "username"/>
+
+    <EditText
+        android:id = "@+id/editText2"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:hint = "password"
+        android:gravity="center"
+        android:inputType = "textPassword"
+        android:singleLine="false"
+        android:selectAllOnFocus="false" />
+
+    <Button
+        android:id = "@+id/button1"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:text="@string/button_send"
+        android:onClick = "sendMessage"
+        android:layout_margin="5dp"
+        android:padding="@dimen/activity_vertical_margin"
+        android:background="@android:color/background_light" />
+
+    <Button
+        android:text="Make Account"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button4"
+        android:onClick="makeAccount"
+        android:layout_margin="5dp"
+        android:padding="@dimen/activity_vertical_margin"
+        android:background="@android:color/background_light" />
+
+</LinearLayout>
+
+
+
+

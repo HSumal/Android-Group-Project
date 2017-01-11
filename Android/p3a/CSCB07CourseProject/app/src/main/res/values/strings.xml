@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">CSCB07CourseProject</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Login</string>
+    <string name="send_file">Send</string>
+
+    <!-- client main strings -->
+    <string name="edit_client">Edit Profile</string>
+    <string name="view_itinerary">View Booked Itineraries</string>
+    <string name="search_flight">Search for Flights</string>
+    <string name="search_itinerary">Search for Itineraries</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="address">Address</string>
+    <string name="card_number">Card Number</string>
+    <string name="expiry_date">Expiry Date</string>
+
+    <!-- admin main strings -->
+    <string name="view_client">View All Clients</string>
+    <string name="view_flight">View All Flights</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>

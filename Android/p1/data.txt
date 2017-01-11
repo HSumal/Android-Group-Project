@@ -1,0 +1,40 @@
+First we will talk about how we are storing flight info.
+
+All the flight info will be stored in a large .txt file in which each flight will be on a single line, separated with commas (,).
+
+Example: 
+(Format follows: Airline Number,Departure Date (YYYY-MM-DD),Arrival Date (YYYY-MM-DD),Airline,Origin,Destination)
+
+
+123456,2016-11-02,2016-11-09,Danklines,Memeland,Animemeland
+8675309,420-6-21,421-6-21,Oldmemers,Past,Future
+
+
+All the user info will be stored in .txt files with a special formatting scheme.
+First all the usernames (e-mails), will be stored in a file labeled Clients.txt (if they’re Client emails) and Admins.txt (if they’re Admin emails).
+
+Example of Clients.txt:
+
+someone@example.ca
+mynameis@awesomename.ca
+100%guaranteed@awesometa.ca
+pleasemarknicely@wereallyneedthisgrade.ca
+kappalol@twitchmemes.ca
+
+Example of Admins.txt:
+
+someoneboring@boringexample.ca
+ihavetoomuchpower@uscongress.com
+donaldtrumpisamaing@trumprallier.com
+hillaryclintonorduff@firstworldproblems.com
+
+
+Then each e-mail for the clients will be the name of a text file which will then hold all their info; whether personal info or billing info.
+
+Example of LittleStuart@mail.ca.txt (Assuming this is a valid filename, with format: First Name, Last Name,Age,Sex,Address,Postal Code,Credit Card/Payment Info ; And then on each new line after the initial info, there will be a list of fights, and each line of flights forms an itinerary):
+
+Stuart,Little,9,M,123 Dank Lane,ABC420,100%RealCreditCardNumber
+Flight1/Flight2/…/FlightN
+Flight1/Flight2/…/FlightN
+
+Where each flight is formatted as the Flight stated above (Format follows: Airline Number,Departure Date (YYYY-MM-DD),Arrival Date (YYYY-MM-DD),Airline,Origin,Destination)

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cs.b07.cscb07courseproject"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="24" />
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="cs.b07.cscb07courseproject.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="cs.b07.cscb07courseproject.ClientMain" />
+        <activity android:name="cs.b07.cscb07courseproject.SearchFlights" />
+        <activity android:name="cs.b07.cscb07courseproject.DisplayFlights" />
+        <activity android:name="cs.b07.cscb07courseproject.AdminMain" />
+        <activity android:name="cs.b07.cscb07courseproject.SearchItinerary" />
+        <activity android:name="cs.b07.cscb07courseproject.DisplayItinerary" />
+        <activity android:name="cs.b07.cscb07courseproject.EditClient" />
+        <activity
+            android:name="cs.b07.cscb07courseproject.LoginActivity"
+            android:label="@string/title_activity_login" />
+        <activity android:name="cs.b07.cscb07courseproject.ViewAllClients" />
+        <activity android:name="cs.b07.cscb07courseproject.ViewClient" />
+        <activity android:name="cs.b07.cscb07courseproject.InputFlight" />
+    </application>
+
+</manifest>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_317f7a4f72334bc6b39bffd62ae3717da72b0761.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_a0efdb02af6be9b6254b4415ebadfcc6a167e932.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_53180c2eb406a402cf43ad24fd595e536aedd440.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_b83a23908f16b704faaf75fef556340d85de0c89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_07b94e3f62feafdae22841c719f6db64bbe737a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_fd95b9137a54183aa7d4a2c0afa001758db2437f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_310ff57f838c85ae5f0ad0de75106e0506f4e5a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_ad8ac50ece11e50c2813f70275768242951eb0d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_45f10d84d33dbfd15b178e5b6ced501abdd88f10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_e3d9b558dc3177b875d4de460f664568157360fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/cms/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_96ffbd5f14e466826d31ea0970c95d525a9499ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_b1ad878f1a97dd2c8d371a83cc84db054b89b306.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_5bfa132ee6a1030473302d5428fe884764f7ee07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_8ec2725b0d9006f0cefd7d9148af64bf6f98c936.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_6ba322ab202922e06e93a1068f3a78fb394fcd5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_4cac3474cfa4645b5946fc09e952f48c96f941d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/cmshome/zhuange1/cscb07/team_0538/p3b/CSCB07CourseProject/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_90919e14ca93538a996bf64e787673e6a923fc20.jar" />
+    </item>
+
+</items>
